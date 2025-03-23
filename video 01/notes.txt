@@ -1,0 +1,30 @@
+1. client
+2. browser
+3. server
+
+#T0 toggle screencast mode
+ctrl+shift+p -> toggle screencast
+
+#T0 mouse zoom
+settings -> mouse
+
+
+Reseponse code -200
+404 error
+500 error
+
+open a website and then inspect then see the network
+frontend - html css javascript
+
+you only need
+
+html 80%
+css 40-60%
+javascript 50-70%
+dont go for perfection
+
+learn what matters
+
+we will learn html, css and javascript
+
+#doubt

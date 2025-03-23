@@ -1,0 +1,12 @@
+javascript gives us all kinds of interactivity
+
+with node js we can create a backend of a website
+
+for front end use script tag
+
+the javascript that runs on browser is different from node js javascript
+you get some extra elements in browser such as prompt,convifrm,documentgetelementbyid , window object
+with mode js you can read , print,alter contents of a file or folder.
+
+you can also change styles with javascript
+

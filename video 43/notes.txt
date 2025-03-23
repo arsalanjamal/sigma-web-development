@@ -1,0 +1,6 @@
+This video will teach you css grid
+used for layout making because float and positioning are very confusing.
+and in some scenarios where css grid is directly applied.
+
+css grids are used for making those layouts which resemble grids in actual
+

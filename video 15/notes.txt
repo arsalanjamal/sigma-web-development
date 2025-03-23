@@ -1,0 +1,5 @@
+inline css , internal css , external 
+koshish karna inline css istimal na karo
+internal css tab istimal karo jab ap ka webpage kafi chota ho
+example (tweeks in bootstrap website)
+for big projects is use external css

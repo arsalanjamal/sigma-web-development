@@ -1,0 +1,10 @@
+we will learn images tables and lists in this video
+windows+shift+s = snipping tool in windows
+
+#images in html
+<img src=" height ="" alt="">
+
+# you need to use height or width atleast one thing with an image
+
+
+

@@ -1,0 +1,27 @@
+wordwrap
+
+#vs code extensions
+vscode icons
+github theme
+jellyfish theme
+material theme
+material theme icons
+live preview
+prettier
+
+#github
+
+#how we will earn with this course
+1. freelancing
+2. course selling
+3. instagram sharing content
+
+linking html css and javascript
+<link rel="stylesheet"type ="text/css"href=style.css">
+changing background color with css
+changing font color with css
+<script src="script.js"></script>
+
+#mousewheel
+settings>Editor: Mouse Wheel Zoom . tick it
+

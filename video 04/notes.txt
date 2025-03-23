@@ -1,0 +1,10 @@
+we will learn headings and paragraphs and also anchor text
+we will create a bookmark website
+
+ALT+SHIFT+DOWN ARROW KEY
+ALT + CLICK = MULTIPLE CURSORS
+
+lorem32
+wordwrap
+
+inline style

@@ -1,0 +1,4 @@
+margin
+padding
+borders
+everything is a box in css such as a div a container or span
