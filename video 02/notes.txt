@@ -10,6 +10,7 @@ live preview
 prettier
 
 #github
+used for collaboration between developers
 
 #how we will earn with this course
 1. freelancing
